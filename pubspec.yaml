@@ -1,0 +1,5 @@
+name: numero
+environment:
+  sdk: '^3.6.0'
+dependencies:
+  intl: ^0.20.2
